@@ -10,6 +10,8 @@
 
 ## 二、下载与安装
 
+**适用游戏版本：Steam Windows 版 3.1.2（Steam Build ID 993355）。** 其他版本或被模组修改过的游戏文件可能无法安装；安装器会在文件哈希不匹配时停止，不会强行覆盖。
+
 请前往 [GitHub Releases 最新版本](https://github.com/toooofu/Shadowrun-Hong-Kong-CN-localization/releases/latest) 下载完整补丁 ZIP 及对应的 SHA-256 校验文件。不要下载 GitHub 自动生成的“Source code”压缩包，它不包含可安装资源。
 
 1. 确认游戏为 Steam Windows 版，并完全退出游戏。
