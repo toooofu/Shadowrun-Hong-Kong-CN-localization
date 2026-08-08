@@ -12,16 +12,21 @@
 
 本汉化基于 **Shadowrun: Hong Kong - Extended Edition** Steam Windows 版 3.1.2 制作。
 
-请前往 [GitHub Releases 页面](https://github.com/toooofu/Shadowrun-Hong-Kong-CN-localization/releases) 下载完整补丁 ZIP 及对应的 SHA-256 校验文件。不要下载 GitHub 自动生成的“Source code”压缩包，它不包含可安装资源。
+1. 前往 [GitHub Releases 页面](https://github.com/toooofu/Shadowrun-Hong-Kong-CN-localization/releases)，下载脚本版安装包 ZIP；
+2. 完全退出游戏并完整解压 ZIP；
+3. 双击 `安装汉化.cmd`，按提示选择游戏目录；
+4. 安装完成后启动游戏。
 
-1. 确认游戏为 Steam Windows 版，并完全退出游戏。
-2. 完整解压下载的补丁 ZIP。
-3. 可先双击 `验证安装包.cmd` 检查文件完整性。
-4. 双击 `安装汉化.cmd`。
-5. 使用安装器自动找到的游戏目录，或手动选择 `Shadowrun Hong Kong` 游戏根目录。
-6. 安装成功后启动游戏。
+需要卸载时，完全退出游戏后运行安装包中的 `卸载汉化.cmd`。
 
-需要卸载时，完全退出游戏后运行安装包中的 `卸载汉化.cmd`，安装器会恢复并校验原始文件。
+### 常见问题
+
+如果无法安装，请依次检查：
+
+- 游戏是否为 Steam Windows 版 3.1.2，且游戏文件未被其他模组修改；
+- 运行 `验证安装包.cmd`，检查下载或解压后的安装包是否完整；
+- Windows PowerShell 是否为 5.1 或更高版本；
+- 如果 PowerShell 版本过低，可在 EXE 安装包发布后改用 EXE 版本安装。
 
 ## 三、汉化内容
 
