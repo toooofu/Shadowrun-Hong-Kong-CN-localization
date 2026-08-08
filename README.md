@@ -2,7 +2,7 @@
 
 ## 一、关于本汉化
 
-本补丁为个人制作的非官方简体中文汉化补丁，仅用于玩家之间免费分享与交流，与 Harebrained Schemes、Paradox Interactive 及相关权利方无关。制作者一直想体验这部经典 CRPG，却长期苦于没有完整汉化，因此借助 OpenAI Codex 完成了当前版本。
+本补丁为个人制作简体中文汉化补丁，仅用于玩家之间免费分享与交流，与 Harebrained Schemes、Paradox Interactive 及相关权利方无关。
 
 当前版本尚未经过全流程完整测试，仅在游戏中进行了基础验证，可能仍存在漏译、错译、排版或兼容性问题，欢迎通过 GitHub Issues 提交截图、场景名称和复现步骤。
 
