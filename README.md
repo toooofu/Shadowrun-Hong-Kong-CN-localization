@@ -12,7 +12,7 @@
 
 本汉化基于 **Shadowrun: Hong Kong - Extended Edition** Steam Windows 版 3.1.2 制作。
 
-请前往 [GitHub Releases 最新版本](https://github.com/toooofu/Shadowrun-Hong-Kong-CN-localization/releases/latest) 下载完整补丁 ZIP 及对应的 SHA-256 校验文件。不要下载 GitHub 自动生成的“Source code”压缩包，它不包含可安装资源。
+请前往 [GitHub Releases 页面](https://github.com/toooofu/Shadowrun-Hong-Kong-CN-localization/releases) 下载完整补丁 ZIP 及对应的 SHA-256 校验文件。不要下载 GitHub 自动生成的“Source code”压缩包，它不包含可安装资源。
 
 1. 确认游戏为 Steam Windows 版，并完全退出游戏。
 2. 完整解压下载的补丁 ZIP。
